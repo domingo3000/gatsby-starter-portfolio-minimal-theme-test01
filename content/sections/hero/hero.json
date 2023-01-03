@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Ich bin Dominik",
   "subtitle": {
-    "prefix": "I do all the setup ",
+    "prefix": "Du brauchst eine Website?",
     "highlight": "for you",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Innerhalb kürzester Zeit, erstelle ich Webseiten mit unterschiedlichsten Deisngs",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Instagram", "Facebook", "SMS", "E-Mail"],
     "showIcons": false
   }
 }
